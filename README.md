@@ -11,16 +11,16 @@ Stage 2 : 	Print Fizz if the number is divisible by 3 or if it has a 3 in it."
 ********************************************************************************
 
 
-Prerequisites
+Prerequisites -
 Install Java (Better to install Java8), Maven.
 
-Run the Project
+Run the Project -
 Use the following java main class to run
-FizzBuzzMain.java
+(FizzBuzzMain.java)
 
-Run Test Cases
+Run Test Cases -
 Use the following java class to executes all the test cases using RunAs Junit
-FizzBuzzTest.java
+(FizzBuzzTest.java)
 
-Author
+Author -
 Senthilkumar
